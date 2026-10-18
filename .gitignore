@@ -1,0 +1,20 @@
+# build output
+build/
+*.nds
+*.dsi
+*.cia
+*.elf
+*.map
+
+# generated during the build (graphics, sound, copies of the PKSM-Core strings, version)
+*.gfx
+*.msl
+nitrofiles/i18n/**/*.txt
+nitrofiles/version.txt
+arm9/include/utils/version.hpp
+
+# local tools and editor/OS files
+.tools/
+.vscode/
+.DS_Store
+Thumbs.db
