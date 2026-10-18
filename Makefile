@@ -9,8 +9,8 @@ NITROFSDIR		:= nitrofiles
 
 # These set the information text in the nds file
 GAME_TITLE		:= PKGarden
-GAME_SUBTITLE	:= 
-GAME_AUTHOR 	:= PKGarden (pkmn-chest by Universal-Team)
+GAME_SUBTITLE	:= Pokemon chest for Gen 3-5
+GAME_AUTHOR 	:= lairLynx Studios
 GAME_ICON 		:= icon.png
 
 SOURCEDIRS	:= arm9/source arm9/core/source arm9/core/memecrypto
